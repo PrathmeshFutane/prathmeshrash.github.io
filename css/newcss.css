@@ -1,0 +1,18 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing: border-box;
+}
+	
+body{
+	color:white;
+	background-color: grey;
+
+}
+.carousel-item{
+	height:85vh;
+	width:100%;
+}
+.footer{
+	font-size: 20rem;
+}
